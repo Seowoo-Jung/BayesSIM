@@ -42,3 +42,5 @@ Packaged: 2025-08-26 20:26:31 UTC; user
 Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.0.0
 RoxygenNote: 7.3.3
+URL: https://github.com/Seowoo-Jung/BayesSIM
+BugReports: https://github.com/Seowoo-Jung/BayesSIM/issues
