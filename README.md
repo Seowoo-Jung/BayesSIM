@@ -3,6 +3,12 @@
 
 # BayesSIM
 
+[![R-CMD-check](https://github.com/Seowoo-Jung/BayesSIM/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Seowoo-Jung/BayesSIM/actions/workflows/R-CMD-check.yaml)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/BayesSIM)](https://CRAN.R-project.org/package=BayesSIM)
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+
 This package is for fitting Bayesian single-index model based on
 `nimble` R package.
 
